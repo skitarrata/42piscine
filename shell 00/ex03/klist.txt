@@ -1,0 +1,5 @@
+Credentials cache: API:BC43C7B7-B23F-4A16-A63E-15CB982B64A7
+        Principal: svalenti@42ROMA.IT
+
+  Issued                Expires               Principal
+Oct 27 19:32:39 2020  Oct 28 05:32:31 2020  krbtgt/42ROMA.IT@42ROMA.IT
